@@ -1,4 +1,4 @@
-# vides-games-success-prediction
+# video-games-success-prediction
 Data science project - Machine learning  
 Collaborated with [Omer Gez](https://github.com/OmerGez9001)  
  NOTE:  
